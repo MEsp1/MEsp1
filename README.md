@@ -8,15 +8,13 @@
 
 ## 🚀 Acerca de mí
 
-Soy estudiante de Ingeniería en Mecánica Automotriz y Tecnologías de la Información, apasionado por la ciberseguridad, pruebas de penetración y ataques DDoS éticos. Me encanta explorar los límites de la tecnología con Python como mi lenguaje favorito. En constante aprendizaje.
+Soy estudiante de Ingeniería en Mecánica Automotriz y Tecnologías de la Información. Me encanta explorar los límites de la tecnología con Python como mi lenguaje favorito. En constante aprendizaje.
 
 ---
 
 ## 💻 Habilidades Técnicas
 
 - ⚙️ **Lenguajes:** Python, Bash, SQL  
-- 🛡️ **Seguridad:** Pentesting, DDoS Testing, Vulnerability Assessment  
-- 🕵️‍♂️ **Herramientas:** Nmap, Wireshark, Metasploit, Burp Suite  
 - 🔧 **Sistemas:** Linux, Windows  
 - ☁️ **Otros:** Automatización de tareas, Desarrollo de scripts de red  
 
@@ -26,7 +24,6 @@ Soy estudiante de Ingeniería en Mecánica Automotriz y Tecnologías de la Infor
 
 
 - **Sistemas CRUD con Web.py:** Aplicación web con autenticación para gestionar datos.  
-- **Escáner de vulnerabilidades:** Script en Python para detección básica de puertos y servicios.  
 
 ---
 
@@ -39,9 +36,8 @@ Soy estudiante de Ingeniería en Mecánica Automotriz y Tecnologías de la Infor
 
 ## 🎯 Metas
 
-- Convertirme en un experto en ciberseguridad ofensiva y defensiva.  
-- Contribuir a proyectos open-source de seguridad.  
-- Crear herramientas propias para automatizar pruebas y auditorías.  
+- Convertirme en un experto en .
+- Crear herramientas propias utiles.  
 
 ---
 
