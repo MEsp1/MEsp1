@@ -1,4 +1,4 @@
-# 👾 Milton Espinosa - Cybersecurity Enthusiast & Programmer 👾
+# 👾 Milton Espinosa - Programmer 👾
 
 
 <p align="center">
@@ -16,7 +16,7 @@ Soy estudiante de Ingeniería en Mecánica Automotriz y Tecnologías de la Infor
 
 - ⚙️ **Lenguajes:** Python, Bash, SQL  
 - 🔧 **Sistemas:** Linux, Windows  
-- ☁️ **Otros:** Automatización de tareas, Desarrollo de scripts de red  
+
 
 ---
 
@@ -36,7 +36,7 @@ Soy estudiante de Ingeniería en Mecánica Automotriz y Tecnologías de la Infor
 
 ## 🎯 Metas
 
-- Convertirme en un experto en .
+- Convertirme en un experto en python.
 - Crear herramientas propias utiles.  
 
 ---
